@@ -16,7 +16,7 @@
 # KPI 8
 ![KPI 8](https://github.com/user-attachments/assets/3bca9c32-3a33-40f3-9fe8-8ef8b4ddf55a)
 
-# Tableau Dashobard-1
+# Tableau Dasboard-1
 ![Dashboard 1](https://github.com/user-attachments/assets/0e6de7a0-c219-481b-a7d0-38ca4d404a52)
 
 # Tableau Dashboard - 2
