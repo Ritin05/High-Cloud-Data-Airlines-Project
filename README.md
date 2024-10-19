@@ -7,7 +7,7 @@
 # Power BI Dashboard-1
 ![Dashboard-1](https://github.com/user-attachments/assets/dca52637-380b-4595-a9c4-978a18303331)
 
-# Dashobard 2
+# Dashboard 2
 ![Dashboard-2](https://github.com/user-attachments/assets/0c11ef32-de80-4856-9d58-64957aa01698)
 
 # KPI 1
