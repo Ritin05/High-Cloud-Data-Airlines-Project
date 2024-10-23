@@ -1,6 +1,8 @@
+# High Cloud Airlines Overview 
+High Cloud Airlines aims to provide exceptional travel experience while prioritizing sustainability and innovation.
+Customer satisfaction by offering personalized services, including flexible booking options.
 
- •	High Cloud Airlines aims to provide exceptional travel experience while prioritizing sustainability and innovation.
-•	Customer satisfaction by offering personalized services, including flexible booking options.
+# List of KPI’s
 •	This KPI analyzes Load Factor percentage on a yearly, Quarterly, Monthly basis Our Analysis A high load factor indicates a preferred airline with most seats sold.
 •	The analysis of load Factor percentage on a Carrier Name basis Analyzed the total number of passengers traveling with each airline. Identified the top 5 carrier names based on passenger count.
 •	The analysis of Identify Top 10 Carrier Names based on passengers preference Analyzed Southwest Airlines Co. stands out significantly with the highest passenger count of 8018. This suggests it is the most preferred airline by a large margin.
