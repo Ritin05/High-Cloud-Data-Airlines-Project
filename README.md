@@ -1,6 +1,6 @@
 # High Cloud Airlines Overview 
-High Cloud Airlines aims to provide exceptional travel experience while prioritizing sustainability and innovation.
-Customer satisfaction by offering personalized services, including flexible booking options.
+1. High Cloud Airlines aims to provide exceptional travel experience while prioritizing sustainability and innovation.
+2. Customer satisfaction by offering personalized services, including flexible booking options.
 
 # List of KPI’s
 •	This KPI analyzes Load Factor percentage on a yearly, Quarterly, Monthly basis Our Analysis A high load factor indicates a preferred airline with most seats sold.
